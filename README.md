@@ -1,2 +1,2 @@
-# condoERP
-sistema de condomínio completo para você
+trabalho do marllon Wendrechowski e Antonio Neto
+
