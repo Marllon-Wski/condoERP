@@ -155,4 +155,4 @@ curl http://localhost:5000/estacionamento/disponiveis
 ## Autores
 
 - **Marllon Wendrechowski** — [github.com/Marllon-Wski](https://github.com/Marllon-Wski)
-- **Antonio Neto**
+- **Antonio Neto** — [github.com/bycato](https://github.com/bycato)
